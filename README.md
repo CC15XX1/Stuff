@@ -1,5 +1,8 @@
-# TheFuture
+# Stuff
 
+Going to be putting stuff in this github repo ;)
+
+- The Future -
 
 I'm going to be making: CC15, CCProtect, CCShop.
 
